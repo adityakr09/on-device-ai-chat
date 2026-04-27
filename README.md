@@ -13,8 +13,7 @@
 
 | App Launch | Loading Model | Model Ready | Chat |
 |:---:|:---:|:---:|:---:|
-| ![App Launch](<img width="467" height="1019" alt="Screenshot 2026-04-27 123436" src="https://github.com/user-attachments/assets/317b2e34-c298-4a14-9a82-9ad1722add73" />) | ![Loading](<img width="442" height="999" alt="Screenshot 2026-04-27 135940" src="https://github.com/user-attachments/assets/a676ec5c-9bc9-48cf-89db-3e8d5c1d370a" />) | ![Ready](<img width="387" height="893" alt="Screenshot 2026-04-27 143202" src="https://github.com/user-attachments/assets/945a22a3-9489-4286-a64f-5ff5261ce397" />) | ![Chat](<img width="433" height="1009" alt="Screenshot 2026-04-27 143251" src="https://github.com/user-attachments/assets/3e7b062a-0823-443a-969d-43f5a7cf6aa3" />) |
-
+| <img src="https://github.com/user-attachments/assets/317b2e34-c298-4a14-9a82-9ad1722add73" width="200"/> | <img src="https://github.com/user-attachments/assets/a676ec5c-9bc9-48cf-89db-3e8d5c1d370a" width="200"/> | <img src="https://github.com/user-attachments/assets/945a22a3-9489-4286-a64f-5ff5261ce397" width="200"/> | <img src="https://github.com/user-attachments/assets/3e7b062a-0823-443a-969d-43f5a7cf6aa3" width="200"/> |
 
 ---
 
